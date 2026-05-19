@@ -51,7 +51,7 @@ Entre sus responsabilidades se incluyen:
 |---|-----------|---------------|---------|
 | 1 | Diego Damico | Cuerpo Técnico y Estrategia | Mi Equipo |
 | 2 | Felipe Bertocchi | Rivales Históricos | Mi Equipo |
-| 3 | | Fase de Grupos | El Mundial |
+| 3 | Matheo Chen | Fase de Grupos | El Mundial |
 | 4 | Manuel Wald | Camino del Equipo | El Mundial |
 | 5 | | Detalles de Partidos | El Mundial |
 | 6 | Lisandro Cingolani | Estadísticas y Premios | El Mundial |
